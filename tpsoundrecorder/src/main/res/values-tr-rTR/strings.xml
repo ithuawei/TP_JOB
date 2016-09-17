@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ses Kaydedici</string>
+    <string name="record_list">Liste</string>
+    <string name="toast_paly_failed">Çalınamadı.</string>
+    <string name="toast_save_failed">Kaydedilemedi.</string>
+    <string name="toast_save_successfully">Kayıt kaydedildi.</string>
+    <string name="toast_record_failed">Ses kaydı yapılamadı</string>
+    <string name="toast_record_time_too_short">Kayıt süresi 1 saniyeden az olamaz</string>
+    <string name="delete_confirm_message">Geçerli ses kaydı silinecektir</string>
+    <string name="delete_title">Sil</string>
+    <string name="delete_btn">SİL</string>
+    <string name="save_title">Kaydet</string>
+    <string name="save_btn">KAYDET</string>
+    <string name="no_records">Ses kaydı yok</string>
+    <string name="format_setting_amr_info">Çoğu kullanım durumuna uygun olması için dosya boyutu küçüktür.</string>
+    <string name="format_setting_wav_info">WAV ses biçimi, dosya boyutu büyüktür.</string>
+    <string name="recording">Kayıt</string>
+    <string name="recording_paused">Duraklat</string>
+    <string name="recording_stopped">&quot;Durdur&quot;</string>
+    <string name="format_setting">Biçimlendir</string>
+    <string name="format_setting_amr_item">AMR</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">Saklama yeri</string>
+    <string name="storage_setting_sdcard_item">SD kart</string>
+    <string name="storage_setting_local_item">Dahili depolama birimi</string>
+    <string name="notification_auto_save">Kaydedici durdu ve kayıt kaydedildi</string>
+    <string name="audio_db_artist_name">"Kayıtlarınız"</string>
+
+    <!-- new strings -->
+    <string name="tab_recording">Kayıt</string>
+    <string name="tab_call_recording">Çağrı kaydı</string>
+    <string name="num_of_selected">"%1$d tane seçildi"</string>
+    <string name="delete_operation_tip">"Sil"</string>
+    <plurals name="delete_opration_confirm">
+        <item quantity="one">"Seçilen öğe silinsin mi?"</item>
+        <item quantity="other">"Seçilen öğeler silinsin mi?"</item>
+    </plurals>
+</resources>

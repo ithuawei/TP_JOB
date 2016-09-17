@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ηχογράφηση</string>
+    <string name="record_list">Λίστα</string>
+    <string name="toast_paly_failed">Αποτυχία αναπαραγωγής.</string>
+    <string name="toast_save_failed">Αποτυχία αποθήκευσης.</string>
+    <string name="toast_save_successfully">Η ηχογράφηση αποθηκεύτηκε.</string>
+    <string name="toast_record_failed">Η ηχογράφηση απέτυχε</string>
+    <string name="toast_record_time_too_short">Ο χρόνος εγγραφής δεν πρέπει να είναι λιγότερο από 1 δευτερόλεπτο</string>
+    <string name="delete_confirm_message">Η τρέχουσα ηχογράφηση θα διαγραφεί</string>
+    <string name="delete_title">Διαγραφή</string>
+    <string name="delete_btn">ΔΙΑΓΡΑΦΗ</string>
+    <string name="save_title">Αποθήκευση</string>
+    <string name="save_btn">ΑΠΟΘΗΚΕΥΣΗ</string>
+    <string name="no_records">Δεν υπάρχει ηχογράφηση</string>
+    <string name="format_setting_amr_info">Το μέγεθος αρχείου είναι μικρότερο για να ταιριάζει με τις περισσότερες περιπτώσεις χρήσης.</string>
+    <string name="format_setting_wav_info">Μορφή αρχείου ήχου WAV, το μέγεθος αρχείου είναι τεράστιο.</string>
+    <string name="recording">Εγγραφή σε εξέλιξη</string>
+    <string name="recording_paused">Παύση</string>
+    <string name="recording_stopped">Διακοπή</string>
+    <string name="format_setting">Μορφή αρχείου</string>
+    <string name="format_setting_amr_item">AMR</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">Θέση αποθήκευσης</string>
+    <string name="storage_setting_sdcard_item">Κάρτα SD</string>
+    <string name="storage_setting_local_item">Εσωτερικός χώρος αποθήκευσης</string>
+    <string name="notification_auto_save">Η εγγραφή διακόπηκε και το αρχείο εγγραφής αποθηκεύτηκε</string>
+    <string name="audio_db_artist_name">"Οι εγγραφές σας"</string>
+
+    <!-- new strings -->
+    <string name="tab_recording">Ηχογράφηση</string>
+    <string name="tab_call_recording">Ηχογράφηση κλήσης</string>
+        <string name="num_of_selected">"%1$d επιλεγμένα"</string>
+    <string name="delete_operation_tip">"Διαγραφή"</string>
+    <plurals name="delete_opration_confirm">
+        <item quantity="one">"Διαγραφή επιλεγμένου στοιχείου;"</item>
+        <item quantity="other">"Διαγραφή επιλεγμένων στοιχείων;"</item>
+    </plurals>
+</resources>

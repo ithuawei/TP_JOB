@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reportofon</string>
+    <string name="record_list">Listă</string>
+    <string name="toast_paly_failed">Redare eșuată.</string>
+    <string name="toast_save_failed">Salvare eșuată.</string>
+    <string name="toast_save_successfully">Înregistrare salvată.</string>
+    <string name="toast_record_failed">Înregistrare sunet eșuată</string>
+    <string name="toast_record_time_too_short">Timpul de înregistrare trebuie să nu fie mai scurt de 1 secundă</string>
+    <string name="delete_confirm_message">Înregistrarea audio curentă va fi ștearsă</string>
+    <string name="delete_title">Ștergere</string>
+    <string name="delete_btn">ȘTERGERE</string>
+    <string name="save_title">Salvare</string>
+    <string name="save_btn">SALVARE</string>
+    <string name="no_records">Nicio înregistrare audio</string>
+    <string name="format_setting_aac_info">Dimensiunea fișierului este mai mică decât cea necesară în majoritatea scenariilor de utilizare.</string>
+    <string name="format_setting_wav_info">Format audio WAV, dimensiunea fișierului este imensă.</string>
+    <string name="recording">Se înregistrează</string>
+    <string name="recording_paused">Pauză</string>
+    <string name="recording_stopped">Stop</string>
+    <string name="format_setting">Format</string>
+    <string name="format_setting_aac_item">AAC</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">Locație stocare</string>
+    <string name="storage_setting_sdcard_item">Card SD</string>
+    <string name="storage_setting_local_item">Stocare internă</string>
+    <string name="notification_auto_save">Reportofonul este oprit și salvat</string>
+    <!-- Do not translate -->
+    <string name="timer_format" translatable="false">%02d:%02d:%02d</string>
+    <string name="audio_db_artist_name">"Înregistrările dvs."</string>
+    <string name="tab_recording">Se înregistrează</string>
+    <string name="tab_call_recording">Înregistrare apel</string>
+    <string name="has_been_chosen">Ales</string>
+
+    <string name="num_of_selected">%1$d selectate</string>
+    <string name="delete_operation_tip">Ștergeți</string>
+    <plurals name="delete_opration_confirm">
+        <item quantity="one">Ștergeți articolul selectat?</item>
+        <item quantity="other">Ștergeți articolele selectate?</item>
+    </plurals>
+</resources>

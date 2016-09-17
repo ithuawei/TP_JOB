@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Звукозапис</string>
+    <string name="record_list">Списък</string>
+    <string name="toast_paly_failed">Неуспешно възпроизвеждане.</string>
+    <string name="toast_save_failed">Неуспешно запазване.</string>
+    <string name="toast_save_successfully">Записът е запазен.</string>
+    <string name="toast_record_failed">Неуспешен звукозапис</string>
+    <string name="toast_record_time_too_short">Времето за запис не трябва да е под 1 секунда</string>
+    <string name="delete_confirm_message">Текущият звукозапис ще бъде изтрит</string>
+    <string name="delete_title">Изтрий</string>
+    <string name="delete_btn">ИЗТРИЙ</string>
+    <string name="save_title">Запази</string>
+    <string name="save_btn">ЗАПАЗИ</string>
+    <string name="no_records">Няма звукозапис</string>
+    <string name="format_setting_aac_info">Размерът на файла е малък, за да пасне на повечето употреби.</string>
+    <string name="format_setting_wav_info">WAV формат на звука, размерът на файла е огромен.</string>
+    <string name="recording">Записване</string>
+    <string name="recording_paused">Пауза</string>
+    <string name="recording_stopped">Стоп</string>
+    <string name="format_setting">Формат</string>
+    <string name="format_setting_aac_item">AAC</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">Място за съхранение</string>
+    <string name="storage_setting_sdcard_item">SD карта</string>
+    <string name="storage_setting_local_item">Вътрешна памет</string>
+    <string name="notification_auto_save">Записът е спрян и запазен</string>
+    <!-- Do not translate -->
+    <string name="timer_format" translatable="false">%02d:%02d:%02d</string>
+    <string name="audio_db_artist_name">"Вашите записи"</string>
+    <string name="tab_recording">Записване</string>
+    <string name="tab_call_recording">Записване на обаждане</string>
+    <string name="has_been_chosen">Избрани</string>
+
+    <string name="num_of_selected">Избрахте %1$d</string>
+    <string name="delete_operation_tip">Изтриване</string>
+    <plurals name="delete_opration_confirm">
+        <item quantity="one">Да се изтрие ли избраният елемент?</item>
+        <item quantity="other">Да се изтрият ли избраните елементи?</item>
+    </plurals>
+</resources>

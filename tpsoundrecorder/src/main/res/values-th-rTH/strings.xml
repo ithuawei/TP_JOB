@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">เครื่องบันทึกเสียง</string>
+    <string name="record_list">รายการ</string>
+    <string name="toast_paly_failed">เล่นไม่สำเร็จ</string>
+    <string name="toast_save_failed">บันทึกไม่สำเร็จ</string>
+    <string name="toast_save_successfully">บันทึกสิ่งบันทึกแล้ว</string>
+    <string name="toast_record_failed">บันทึกเสียงไม่สำเร็จ</string>
+    <string name="toast_record_time_too_short">เวลาบันทึกไม่ควรน้อยกว่า 1 วินาที</string>
+    <string name="delete_confirm_message">บันทึกเสียงปัจจุบันจะถูกลบ</string>
+    <string name="delete_title">ลบ</string>
+    <string name="delete_btn">ลบ</string>
+    <string name="save_title">บันทึก</string>
+    <string name="save_btn">บันทึก</string>
+    <string name="no_records">ไม่มีบันทึกเสียง</string>
+    <string name="format_setting_amr_info">ขนาดไฟล์เล็กเกินกว่าจะพอดีกับทุกเคสที่ใช้</string>
+    <string name="format_setting_wav_info">รูปแบบเสียง WAV ไฟล์มีขนาดใหญ่</string>
+    <string name="recording">สิ่งบันทึก</string>
+    <string name="recording_paused">หยุดพัก</string>
+    <string name="recording_stopped">หยุด</string>
+    <string name="format_setting">รูปแบบ</string>
+    <string name="format_setting_amr_item">AMR</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">ตำแหน่งพื้นที่จัดเก็บ</string>
+    <string name="storage_setting_sdcard_item">การ์ด SD</string>
+    <string name="storage_setting_local_item">พื้นที่จัดเก็บภายใน</string>
+    <string name="notification_auto_save">เครื่องบันทึกหยุดทำงาน และระบบได้จัดเก็บงานบันทึกไว้เรียบร้อยแล้ว</string>
+    <string name="audio_db_artist_name">"การบันทึกของคุณ"</string>
+
+    <!-- new strings -->
+    <string name="tab_recording">กำลังบันทึก</string>
+    <string name="tab_call_recording">สิ่งบันทึกการโทร</string>
+    <string name="num_of_selected">"เลือกไว้ %1$d"</string>
+    <string name="delete_operation_tip">"ลบ"</string>
+    <plurals name="delete_opration_confirm">
+        <item quantity="one">"ลบรายการที่เลือกไหม"</item>
+        <item quantity="other">"ลบรายการที่เลือกไหม"</item>
+    </plurals>
+</resources>

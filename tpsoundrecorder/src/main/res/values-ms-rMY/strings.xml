@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Perakam Bunyi</string>
+    <string name="record_list">Senarai</string>
+    <string name="toast_paly_failed">Main gagal.</string>
+    <string name="toast_save_failed">Simpan gagal.</string>
+    <string name="toast_save_successfully">Rakaman disimpan.</string>
+    <string name="toast_record_failed">Rakaman bunyi gagal</string>
+    <string name="toast_record_time_too_short">Masa rakaman hendaklah kurang daripada 1 saat</string>
+    <string name="delete_confirm_message">Rakaman bunyi semasa akan dipadamkan</string>
+    <string name="delete_title">Padam</string>
+    <string name="delete_btn">PADAM</string>
+    <string name="save_title">Simpan</string>
+    <string name="save_btn">SIMPAN</string>
+    <string name="no_records">Tiada rakaman bunyi</string>
+    <string name="format_setting_amr_info">Saiz fail adalah lebih kecil agar sesuai untuk kebanyakan penggunaan.</string>
+    <string name="format_setting_wav_info">Format bunyi WAV, saiz fail adalah sangat besar.</string>
+    <string name="recording">Merakam</string>
+    <string name="recording_paused">Jeda</string>
+    <string name="recording_stopped">Berhenti</string>
+    <string name="format_setting">Format</string>
+    <string name="format_setting_amr_item">AMR</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">Lokasi storan</string>
+    <string name="storage_setting_sdcard_item">Kad SD</string>
+    <string name="storage_setting_local_item">Storan dalaman</string>
+    <string name="notification_auto_save">Perakam dihentikan, dan rakaman disimpan</string>
+    <string name="audio_db_artist_name">"Rakaman anda"</string>
+
+    <!-- new strings -->
+    <string name="tab_recording">Merakam</string>
+    <string name="tab_call_recording">Rakaman panggilan</string>
+    <string name="num_of_selected">"%1$d dipilih"</string>
+    <string name="delete_operation_tip">"Padam"</string>
+    <plurals name="delete_opration_confirm">
+        <item quantity="one">"Padam item yang dipilih?"</item>
+        <item quantity="other">"Padam item yang dipilih?"</item>
+    </plurals>
+</resources>

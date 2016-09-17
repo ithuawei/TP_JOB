@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Диктофон</string>
+    <string name="record_list">Перелік</string>
+    <string name="toast_paly_failed">Відтворення не вдалося.</string>
+    <string name="toast_save_failed">Не вдалося зберегти.</string>
+    <string name="toast_save_successfully">Запис збережено.</string>
+    <string name="toast_record_failed">Не вдалося записати звук.</string>
+    <string name="toast_record_time_too_short">Час запису має бути більшим за 1 секунду</string>
+    <string name="delete_confirm_message">Поточний запис звуку буде видалено</string>
+    <string name="delete_title">Видалити</string>
+    <string name="delete_btn">ВИДАЛИТИ</string>
+    <string name="save_title">Зберегти</string>
+    <string name="save_btn">ЗБЕРЕГТИ</string>
+    <string name="no_records">Немає запису звуку</string>
+    <string name="format_setting_amr_info">Розмір файлу замалий, щоб підійти у більшості випадків.</string>
+    <string name="format_setting_wav_info">Формат звучання WAV, розмір файлу дуже великий.</string>
+    <string name="recording">Запис</string>
+    <string name="recording_paused">Призупинено</string>
+    <string name="recording_stopped">Зупинено</string>
+    <string name="format_setting">Формат</string>
+    <string name="format_setting_amr_item">AMR</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">Розташування пам’яті</string>
+    <string name="storage_setting_sdcard_item">SD-картка</string>
+    <string name="storage_setting_local_item">Внутрішня пам’ять</string>
+    <string name="notification_auto_save">Диктофон зупинено і запис збережено</string>
+    <string name="audio_db_artist_name">"Ваші записи"</string>
+
+    <!-- new strings -->
+    <string name="tab_recording">Запис</string>
+    <string name="tab_call_recording">Запис дзвінка</string>
+    <string name="num_of_selected">"Вибрано %1$d"</string>
+    <string name="delete_operation_tip">"Видалити"</string>
+    <plurals name="delete_opration_confirm">
+        <item quantity="one">"Видалити вибраний елемент?"</item>
+        <item quantity="other">"Видалити вибрані елементи?"</item>
+    </plurals>
+</resources>

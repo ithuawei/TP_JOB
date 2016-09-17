@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dyktafon</string>
+    <string name="record_list">Lista</string>
+    <string name="toast_paly_failed">Odtwarzanie nie powiodło się.</string>
+    <string name="toast_save_failed">Zapisywanie nie powiodło się.</string>
+    <string name="toast_save_successfully">Zapisano nagranie.</string>
+    <string name="toast_record_failed">Nagrywanie dźwięku nie powiodło się</string>
+    <string name="toast_record_time_too_short">Czas nagrania nie powinien być krótszy niż 1 sekunda</string>
+    <string name="delete_confirm_message">Bieżące nagranie dźwiękowe zostanie usunięte</string>
+    <string name="delete_title">Usuń</string>
+    <string name="delete_btn">USUŃ</string>
+    <string name="save_title">Zapisz</string>
+    <string name="save_btn">ZAPISZ</string>
+    <string name="no_records">Brak nagrań dźwiękowych</string>
+    <string name="format_setting_amr_info">Mały rozmiar pliku, odpowiedni dla większości zastosowań.</string>
+    <string name="format_setting_wav_info">Duży rozmiar pliku.</string>
+    <string name="recording">Nagrywanie</string>
+    <string name="recording_paused">Pauza</string>
+    <string name="recording_stopped">Zakończ</string>
+    <string name="format_setting">Format</string>
+    <string name="format_setting_amr_item">AMR</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">Miejsce zapisu</string>
+    <string name="storage_setting_sdcard_item">Karta SD</string>
+    <string name="storage_setting_local_item">Pamięć wewnętrzna</string>
+    <string name="notification_auto_save">Rejestrator został zatrzymany, a nagranie zapisano</string>
+    <string name="audio_db_artist_name">"Twoje nagrania"</string>
+
+    <!-- new strings -->
+    <string name="tab_recording">Nagrania</string>
+    <string name="tab_call_recording">Nagrania z rozmów</string>
+    <string name="num_of_selected">"Wybranych %1$d"</string>
+    <string name="delete_operation_tip">"Usuń"</string>
+    <plurals name="delete_opration_confirm">
+        <item quantity="one">"Usunąć wybrany element?"</item>
+        <item quantity="other">"Usunąć wybrane elementy?"</item>
+    </plurals>
+</resources>

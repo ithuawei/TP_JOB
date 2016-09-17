@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gravador de áudio</string>
+    <string name="record_list">Lista</string>
+    <string name="toast_paly_failed">A reprodução falhou.</string>
+    <string name="toast_save_failed">Falha na gravação.</string>
+    <string name="toast_save_successfully">Gravação salva.</string>
+    <string name="toast_record_failed">A gravação do áudio falhou.</string>
+    <string name="toast_record_time_too_short">O tempo de gravação não pode ser inferior a 1 segundo</string>
+    <string name="delete_confirm_message">A gravação de áudio atual será excluída</string>
+    <string name="delete_title">Excluir</string>
+    <string name="delete_btn">EXCLUIR</string>
+    <string name="save_title">Salvar</string>
+    <string name="save_btn">SALVAR</string>
+    <string name="no_records">Sem gravação de áudio</string>
+    <string name="format_setting_amr_info">O tamanho do arquivo é menor, compatível com a maioria dos casos.</string>
+    <string name="format_setting_wav_info">Formato de som WAV, o tamanho do arquivo é enorme.</string>
+    <string name="recording">Gravando</string>
+    <string name="recording_paused">Pausa</string>
+    <string name="recording_stopped">Parar</string>
+    <string name="format_setting">Formato</string>
+    <string name="format_setting_amr_item">AMR</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">Local de armazenamento</string>
+    <string name="storage_setting_sdcard_item">Cartão SD</string>
+    <string name="storage_setting_local_item">Armazenamento interno</string>
+    <string name="notification_auto_save">Gravação encerrada e salva.</string>
+    <string name="audio_db_artist_name">"Suas gravações"</string>
+
+    <!-- new strings -->
+    <string name="tab_recording">Gravando</string>
+    <string name="tab_call_recording">Gravando chamada</string>
+    <string name="num_of_selected">"%1$d selecionados"</string>
+    <string name="delete_operation_tip">"Excluir"</string>
+    <plurals name="delete_opration_confirm">
+        <item quantity="one">"Excluir o item selecionado?"</item>
+        <item quantity="other">"Excluir os itens selecionados?"</item>
+    </plurals>
+</resources>

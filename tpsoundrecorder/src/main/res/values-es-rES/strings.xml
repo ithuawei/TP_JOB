@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grabadora de voz</string>
+    <string name="record_list">Lista</string>
+    <string name="toast_paly_failed">Error al reproducir.</string>
+    <string name="toast_save_failed">Error al guardar.</string>
+    <string name="toast_save_successfully">Grabación guardada.</string>
+    <string name="toast_record_failed">Error al grabar sonido</string>
+    <string name="toast_record_time_too_short">El tiempo de grabación no puede ser inferior a un segundo</string>
+    <string name="delete_confirm_message">Se eliminará la grabación de sonido actual</string>
+    <string name="delete_title">Eliminar</string>
+    <string name="delete_btn">ELIMINAR</string>
+    <string name="save_title">Guardar</string>
+    <string name="save_btn">GUARDAR</string>
+    <string name="no_records">No hay grabaciones de sonido</string>
+    <string name="format_setting_amr_info">El tamaño de archivo es más pequeño para ajustarse a la mayoría de los casos de uso.</string>
+    <string name="format_setting_wav_info">Formato de sonido WAV, el tamaño de archivo es muy grande.</string>
+    <string name="recording">Grabando</string>
+    <string name="recording_paused">Pausa</string>
+    <string name="recording_stopped">Detener</string>
+    <string name="format_setting">Formato</string>
+    <string name="format_setting_amr_item">AMR</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">Ubicación de almacenamiento</string>
+    <string name="storage_setting_sdcard_item">Tarjeta SD</string>
+    <string name="storage_setting_local_item">Almacenamiento interno</string>
+    <string name="notification_auto_save">Se ha detenido la grabadora y se ha guardado la grabación</string>
+    <string name="audio_db_artist_name">"Tus grabaciones"</string>
+
+    <!-- new strings -->
+    <string name="tab_recording">Grabación</string>
+    <string name="tab_call_recording">Grabación de llamadas</string>
+    <string name="num_of_selected">"Seleccionados: %1$d"</string>
+    <string name="delete_operation_tip">"Eliminar"</string>
+    <plurals name="delete_opration_confirm">
+        <item quantity="one">"Eliminar elemento seleccionado?"</item>
+        <item quantity="other">"Eliminar elementos seleccionados?"</item>
+    </plurals>
+</resources>

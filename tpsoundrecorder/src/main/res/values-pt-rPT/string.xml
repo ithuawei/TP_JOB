@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gravador de som</string>
+    <string name="record_list">Lista</string>
+    <string name="toast_paly_failed">Falha ao reproduzir.</string>
+    <string name="toast_save_failed">Falha ao guardar.</string>
+    <string name="toast_save_successfully">Gravação guardada.</string>
+    <string name="toast_record_failed">Falha ao gravar som</string>
+    <string name="toast_record_time_too_short">O tempo de gravação não deve ser inferior a 1 segundo</string>
+    <string name="delete_confirm_message">A gravação do som atual será eliminada</string>
+    <string name="delete_title">Eliminar</string>
+    <string name="delete_btn">ELIMINAR</string>
+    <string name="save_title">Guardar</string>
+    <string name="save_btn">GUARDAR</string>
+    <string name="no_records">Sem gravação de som</string>
+    <string name="format_setting_amr_info">O tamanho do ficheiro é mais pequeno para se adaptar à maior parte dos casos de utilização.</string>
+    <string name="format_setting_wav_info">Formato de som WAV, o tamanho do ficheiro é enorme.</string>
+    <string name="recording">A gravar</string>
+    <string name="recording_paused">Pausa</string>
+    <string name="recording_stopped">Parar</string>
+    <string name="format_setting">Formato</string>
+    <string name="format_setting_amr_item">AMR</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">Local de armazenamento</string>
+    <string name="storage_setting_sdcard_item">Cartão SD</string>
+    <string name="storage_setting_local_item">Armazenamento interno</string>
+    <string name="notification_auto_save">O gravador está parado e guardado</string>
+
+    <!-- new strings -->
+    <string name="tab_recording">Gravação</string>
+    <string name="tab_call_recording">Gravação de chamada</string>
+    <string name="num_of_selected">"%1$d selecionado(s)"</string>
+    <string name="delete_operation_tip">"Eliminar"</string>
+    <plurals name="delete_opration_confirm">
+        <item quantity="one">"Eliminar item selecionado?"</item>
+        <item quantity="other">"Eliminar itens selecionados?"</item>
+    </plurals>
+</resources>

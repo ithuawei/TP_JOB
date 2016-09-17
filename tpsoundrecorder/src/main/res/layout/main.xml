@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+     Copyright (C) 2011 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#282828"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true">
+
+    <include layout="@layout/toolbar"/>
+
+    <ImageView
+        android:id="@+id/iv_more"
+        android:layout_width="44dp"
+        android:layout_height="56dp"
+        android:layout_alignParentEnd="true"
+        android:contentDescription="@null"
+        android:scaleType="center"
+        android:src="@drawable/more"/>
+
+    <TextView
+        android:id="@+id/tv_state"
+        style="@android:style/TextAppearance.Large"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="58dp"
+        android:gravity="center"
+        android:textColor="@color/ColorGreen"/>
+
+    <RelativeLayout
+        android:id="@+id/rl_animationcontent"
+        android:layout_width="match_parent"
+        android:layout_height="270dp"
+        android:layout_below="@+id/tv_state"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp">
+
+        <com.tplink.tpsoundrecorder.view.WaveView
+            android:id="@+id/vmv"
+            android:layout_width="260dp"
+            android:layout_height="260dp"
+            android:layout_centerInParent="true"/>
+        <ImageView
+            android:id="@+id/iv_animation_bg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:contentDescription="@null"
+            android:src="@drawable/animation_bg"/>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_timer"
+        style="@android:style/TextAppearance.Large"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/rl_animationcontent"
+        android:gravity="center"
+        android:textColor="@color/ColorGreen"
+        android:textSize="40sp"/>
+
+    <TextView
+        android:id="@+id/tv_flag"
+        style="@android:style/TextAppearance.Large"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_timer"
+        android:gravity="center"
+        android:textColor="@color/text_color_white"
+        android:textSize="20sp"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="50dp">
+
+        <ImageButton
+            android:id="@+id/ib_record"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@drawable/btn_recording"
+            android:contentDescription="@null"
+            android:src="@drawable/ic_start_recording"/>
+
+        <ImageButton
+            android:id="@+id/ib_stop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:layout_toRightOf="@id/ib_record"
+            android:background="@drawable/btn_stop_recording"
+            android:contentDescription="@null"/>
+
+        <ImageButton
+            android:id="@+id/bt_flag_time"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="30dp"
+            android:layout_toLeftOf="@+id/ib_record"
+            android:background="@drawable/recorder_or_player_flag"/>
+    </RelativeLayout>
+</RelativeLayout>

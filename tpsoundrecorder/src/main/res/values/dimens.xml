@@ -1,0 +1,9 @@
+<resources>
+
+    <dimen name="tab_height">48dp</dimen>
+    <dimen name="pstsIndicator_height">2dp</dimen>
+    <dimen name="list_margin">16dp</dimen>
+    <dimen name="list_back_size">24dp</dimen>
+    <dimen name="tab_text_size">16sp</dimen>
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">錄音機</string>
+    <string name="record_list">清單</string>
+    <string name="toast_paly_failed">播放失敗。</string>
+    <string name="toast_save_failed">儲存失敗。</string>
+    <string name="toast_save_successfully">已儲存錄音。</string>
+    <string name="toast_record_failed">錄音失敗</string>
+    <string name="toast_record_time_too_short">錄音時間不可小於 1 秒</string>
+    <string name="delete_confirm_message">將刪除目前的錄音</string>
+    <string name="delete_title">刪除</string>
+    <string name="delete_btn">刪除</string>
+    <string name="save_title">儲存</string>
+    <string name="save_btn">儲存</string>
+    <string name="no_records">無錄音</string>
+    <string name="format_setting_amr_info">檔案大小較小，不符合大多數使用情況。</string>
+    <string name="format_setting_wav_info">WAV 聲音格式，檔案大小太大。</string>
+    <string name="recording">錄音</string>
+    <string name="recording_paused">暫停</string>
+    <string name="recording_stopped">停止</string>
+    <string name="format_setting">格式</string>
+    <string name="format_setting_amr_item">AMR</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">儲存位置</string>
+    <string name="storage_setting_sdcard_item">SD 卡</string>
+    <string name="storage_setting_local_item">內部存放裝置</string>
+    <string name="notification_auto_save">錄音機停止且儲存。</string>
+    <string name="audio_db_artist_name">"您的錄音"</string>
+</resources>

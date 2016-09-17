@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registratore audio</string>
+    <string name="record_list">Elenco</string>
+    <string name="toast_paly_failed">Riproduzione non riuscita.</string>
+    <string name="toast_save_failed">Salvataggio non riuscito.</string>
+    <string name="toast_save_successfully">Registrazione salvata.</string>
+    <string name="toast_record_failed">Registrazione audio non riuscita</string>
+    <string name="toast_record_time_too_short">Il tempo di registrazione non può essere inferiore a 1 secondo</string>
+    <string name="delete_confirm_message">La registrazione audio corrente sarà eliminata</string>
+    <string name="delete_title">Elimina</string>
+    <string name="delete_btn">ELIMINA</string>
+    <string name="save_title">Salva</string>
+    <string name="save_btn">SALVA</string>
+    <string name="no_records">Nessuna registrazione audio</string>
+    <string name="format_setting_amr_info">Il file è di dimensioni inferiori per essere adatto a molteplici usi.</string>
+    <string name="format_setting_wav_info">Formato audio WAV, il file è di dimensioni molto grandi.</string>
+    <string name="recording">Registrazione</string>
+    <string name="recording_paused">Metti in pausa</string>
+    <string name="recording_stopped">Arresta</string>
+    <string name="format_setting">Formatta</string>
+    <string name="format_setting_amr_item">AMR</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">Posizione in memoria</string>
+    <string name="storage_setting_sdcard_item">Scheda SD</string>
+    <string name="storage_setting_local_item">Memoria interna</string>
+    <string name="notification_auto_save">Registratore interrotto. La registrazione è stata salvata</string>
+    <string name="audio_db_artist_name">"Registrazioni"</string>
+
+    <!-- new strings -->
+    <string name="tab_recording">Registrazione</string>
+    <string name="tab_call_recording">Registrazione chiamata</string>
+    <string name="num_of_selected">"%1$d selezionati"</string>
+    <string name="delete_operation_tip">"Elimina"</string>
+    <plurals name="delete_opration_confirm">
+        <item quantity="one">"Eliminare l\'elemento selezionato?"</item>
+        <item quantity="other">"Eliminare gli elementi selezionati?"</item>
+    </plurals>
+</resources>

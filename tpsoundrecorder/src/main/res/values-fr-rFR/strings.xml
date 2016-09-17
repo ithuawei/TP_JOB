@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Enregistreur audio</string>
+    <string name="record_list">Liste</string>
+    <string name="toast_paly_failed">Échec de la lecture</string>
+    <string name="toast_save_failed">Échec de l\&apos;enregistrement</string>
+    <string name="toast_save_successfully">Enregistrement audio réussi.</string>
+    <string name="toast_record_failed">Échec de l\&apos;enregistrement audio</string>
+    <string name="toast_record_time_too_short">Le temps d\&apos;enregistrement ne doit pas être inférieur É 1 seconde</string>
+    <string name="delete_confirm_message">L\&apos;enregistrement audio actuel va être supprimé </string>
+    <string name="delete_title">Supprimer</string>
+    <string name="delete_btn">SUPPRIMER</string>
+    <string name="save_title">Enregistrer</string>
+    <string name="save_btn">ENREGISTRER</string>
+    <string name="no_records">Pas d\&apos;enregistrement</string>
+    <string name="format_setting_amr_info">La taille du fichier est réduite pour faciliter son utilisation. </string>
+    <string name="format_setting_wav_info">Fichier audio au format WAV, le fichier est très grand</string>
+    <string name="recording">Enregistrement</string>
+    <string name="recording_paused">Pause</string>
+    <string name="recording_stopped">Arrêt</string>
+    <string name="format_setting">Format</string>
+    <string name="format_setting_amr_item">AMR</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">Emplacement de stockage</string>
+    <string name="storage_setting_sdcard_item">Carte SD</string>
+    <string name="storage_setting_local_item">Stockage interne</string>
+    <string name="notification_auto_save">L\&apos;enregistrement est arrété et sauvegardé</string>
+    <string name="audio_db_artist_name">"Vos enregistrements audio"</string>
+
+    <!-- new strings -->
+    <string name="tab_recording">Enregistrement en cours</string>
+    <string name="tab_call_recording">Enregistrement de l\&apos;appel</string>
+    <string name="num_of_selected">"%1$d élément sélectionné"</string>
+    <string name="delete_operation_tip">"Supprimer"</string>
+    <plurals name="delete_opration_confirm">
+        <item quantity="one">"Supprimer l\&apos;élément sélectionné ?"</item>
+        <item quantity="other">"Supprimer les éléments sélectionnés ?"</item>
+    </plurals>
+</resources>

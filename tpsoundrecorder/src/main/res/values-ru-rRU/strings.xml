@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Диктофон</string>
+    <string name="record_list">Список</string>
+    <string name="toast_paly_failed">Сбой воспроизведения.</string>
+    <string name="toast_save_failed">Сохранить не удалось!</string>
+    <string name="toast_save_successfully">Запись сохранена.</string>
+    <string name="toast_record_failed">Сбой при записи аудио.</string>
+    <string name="toast_record_time_too_short">Время записи должно быть не менее  1 секунды</string>
+    <string name="delete_confirm_message">Текущая запись аудио будет удалена</string>
+    <string name="delete_title">Удалить</string>
+    <string name="delete_btn">УДАЛИТЬ</string>
+    <string name="save_title">Сохранить</string>
+    <string name="save_btn">СОХРАНИТЬ</string>
+    <string name="no_records">Нет записей аудио</string>
+    <string name="format_setting_amr_info">Меньший размер файла подходит для большинства случаев использования.</string>
+    <string name="format_setting_wav_info">Файлы звукового формата WAV будут иметь очень большой размер.</string>
+    <string name="recording">Запись</string>
+    <string name="recording_paused">Пауза</string>
+    <string name="recording_stopped">Стоп</string>
+    <string name="format_setting">Формат</string>
+    <string name="format_setting_amr_item">AMR</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">Место хранения</string>
+    <string name="storage_setting_sdcard_item">SD-карта</string>
+    <string name="storage_setting_local_item">Внутренняя память</string>
+    <string name="notification_auto_save">Процесс записи остановлен, запись сохранена</string>
+    <string name="audio_db_artist_name">"Ваши записи"</string>
+
+    <!-- new strings -->
+    <string name="tab_recording">Запись</string>
+    <string name="tab_call_recording">Запись вызова</string>
+    <string name="num_of_selected">"%1$d"</string>
+    <string name="delete_operation_tip">"Удалить"</string>
+    <plurals name="delete_opration_confirm">
+        <item quantity="one">"Удалить выбранный файл?"</item>
+        <item quantity="other">"Удалить выбранные файлы?"</item>
+    </plurals>
+</resources>

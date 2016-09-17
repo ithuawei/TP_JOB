@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Soundrekorder</string>
+    <string name="record_list">Liste</string>
+    <string name="toast_paly_failed">Fehler bei der Wiedergabe</string>
+    <string name="toast_save_failed">Fehler beim Speichern</string>
+    <string name="toast_save_successfully">Aufnahme gespeichert</string>
+    <string name="toast_record_failed">Fehler bei der Aufnahme</string>
+    <string name="toast_record_time_too_short">Die Aufnahme sollte mindestens 1 Sekunde dauern.</string>
+    <string name="delete_confirm_message">Die aktuelle Aufnahme wird gelöscht.</string>
+    <string name="delete_title">Löschen</string>
+    <string name="delete_btn">Löschen</string>
+    <string name="save_title">Speichern</string>
+    <string name="save_btn">Speichern</string>
+    <string name="no_records">Keine Aufnahme vorhanden</string>
+    <string name="format_setting_amr_info">Die geringe Dateigröße ermöglicht verschiedenste Einsatzmöglichkeiten.</string>
+    <string name="format_setting_wav_info">WAV-Format; die Datei kann sehr groß sein.</string>
+    <string name="recording">Aufnahme</string>
+    <string name="recording_paused">Anhalten</string>
+    <string name="recording_stopped">Beenden</string>
+    <string name="format_setting">Format</string>
+    <string name="format_setting_amr_item">AMR</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">Speicherort</string>
+    <string name="storage_setting_sdcard_item">SD-Karte</string>
+    <string name="storage_setting_local_item">Interner Speicher</string>
+    <string name="notification_auto_save">Die Aufnahme wurde angehalten und gespeichert.</string>
+    <string name="audio_db_artist_name">"Ihre Aufnahmen"</string>
+
+    <!-- new strings -->
+    <string name="tab_recording">Aufnahme</string>
+    <string name="tab_call_recording">Anrufaufzeichnung</string>
+    <string name="num_of_selected">"%1$d ausgewählt"</string>
+    <string name="delete_operation_tip">"Schließen"</string>
+    <plurals name="delete_opration_confirm">
+        <item quantity="one">"Ausgewähltes Element löschen?"</item>
+        <item quantity="other">"Ausgewählte Elemente löschen?"</item>
+    </plurals>
+</resources>

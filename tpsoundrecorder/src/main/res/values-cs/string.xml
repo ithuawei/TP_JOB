@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Záznam zvuku</string>
+    <string name="record_list">Seznam</string>
+    <string name="toast_paly_failed">Přehrání selhalo.</string>
+    <string name="toast_save_failed">Uložení se nezdařilo.</string>
+    <string name="toast_save_successfully">Nahrávání uloženo.</string>
+    <string name="toast_record_failed">Záznam zvuku se nezdařil</string>
+    <string name="toast_record_time_too_short">Doba záznamu by neměla být kratší než 1 sekunda</string>
+    <string name="delete_confirm_message">Aktuální záznam zvuku bude smazán</string>
+    <string name="delete_title">Odstranit</string>
+    <string name="delete_btn">ODSTRANIT</string>
+    <string name="save_title">Uložit</string>
+    <string name="save_btn">ULOŽIT</string>
+    <string name="no_records">Žádný záznam zvuku</string>
+    <string name="format_setting_aac_info">Velikost souboru je menší, aby vyhovovala většině případů následného použití.</string>
+    <string name="format_setting_wav_info">Zvukový formát WAV, velikost souboru je obrovská.</string>
+    <string name="recording">Nahrávání</string>
+    <string name="recording_paused">Pauza</string>
+    <string name="recording_stopped">Stop</string>
+    <string name="format_setting">Formát</string>
+    <string name="format_setting_aac_item">AAC</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">Umístění úložiště</string>
+    <string name="storage_setting_sdcard_item">SD karta</string>
+    <string name="storage_setting_local_item">Vnitřní úložiště</string>
+    <string name="notification_auto_save">Záznamník se zastavil a proběhlo uložení</string>
+    <!-- Do not translate -->
+    <string name="timer_format" translatable="false">%02d:%02d:%02d</string>
+    <string name="audio_db_artist_name">"Vaše nahrávky"</string>
+    <string name="tab_recording">Nahrávání</string>
+    <string name="tab_call_recording">Nahrávání hovorů</string>
+    <string name="has_been_chosen">Zvolený</string>
+
+    <string name="num_of_selected">Vybráno: %1$d</string>
+    <string name="delete_operation_tip">Smazat</string>
+    <plurals name="delete_opration_confirm">
+        <item quantity="one">Smazat vybranou položku?</item>
+        <item quantity="other">Smazat vybrané položky?</item>
+    </plurals>
+</resources>

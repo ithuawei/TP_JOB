@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مسجل الصوت</string>
+    <string name="record_list">قائمة</string>
+    <string name="toast_paly_failed">فشل التشغيل.</string>
+    <string name="toast_save_failed">فشل الحفظ.</string>
+    <string name="toast_save_successfully">تم حفظ التسجيل.</string>
+    <string name="toast_record_failed">فشل تسجيل الصوت</string>
+    <string name="toast_record_time_too_short">يجب ألا يقل وقت التسجيل عن ثانية واحدة</string>
+    <string name="delete_confirm_message">سيتم حذف التسجيل الحالي للصوت</string>
+    <string name="delete_title">حذف</string>
+    <string name="delete_btn">حذف</string>
+    <string name="save_title">حفظ</string>
+    <string name="save_btn">حفظ</string>
+    <string name="no_records">لا يوجد تسجيل للصوت</string>
+    <string name="format_setting_amr_info">حجم الملف أقل من أن يناسب معظم حالات الاستخدام.</string>
+    <string name="format_setting_wav_info">تنسيق صوت WAV، حجم الملف كبير.</string>
+    <string name="recording">التسجيل</string>
+    <string name="recording_paused">إيقاف مؤقت</string>
+    <string name="recording_stopped">إيقاف</string>
+    <string name="format_setting">تنسيق</string>
+    <string name="format_setting_amr_item">AMR</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">موقع التخزين</string>
+    <string name="storage_setting_sdcard_item">بطاقة SD</string>
+    <string name="storage_setting_local_item">التخزين الداخلي</string>
+    <string name="notification_auto_save">تم إيقاف المسجل وتم حفظ التسجيل</string>
+    <string name="audio_db_artist_name">"تسجيلاتك"</string>
+
+    <!-- new strings -->
+    <string name="tab_recording">التسجيل</string>
+    <string name="tab_call_recording">تسجيل المكالمات</string>
+    <string name="num_of_selected">"‏تم تحديد %1$d"</string>
+    <string name="delete_operation_tip">"حذف"</string>
+    <plurals name="delete_opration_confirm">
+        <item quantity="zero">"هل تريد حذف العنصر المحدد؟"</item>
+        <item quantity="one">"هل تريد حذف العنصر المحدد؟"</item>
+        <item quantity="two">"هل تريد حذف العناصر المحددة؟"</item>
+        <item quantity="few">"هل تريد حذف العناصر المحددة؟"</item>
+        <item quantity="many">"هل تريد حذف العناصر المحددة؟"</item>
+        <item quantity="other">"هل تريد حذف العناصر المحددة؟"</item>
+    </plurals>
+</resources>

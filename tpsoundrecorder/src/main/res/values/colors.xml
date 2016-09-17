@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_primary">#FF4389FF</color>
+    <color name="color_black">#000</color>
+    <color name="text_color_primary">#FF424242</color>
+    <color name="text_color_primary_sound_list">#FFFFFFFF</color>
+    <color name="text_color_secondary">#FF424242</color>
+    <color name="text_color_tertiary">#8a000000</color>
+    <color name="ColorGreen">#2BCCC1</color>
+    <color name="text_color_white">#595B67</color>
+    <color name="color_accent">#4389ff</color>
+    <color name="window_background">#FFFFFFFF</color>
+    <color name="color_ripple">#FFC3C3FC</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="tab_text_pressed_color">#4389ff</color>
+    <color name="colorPrimary">#4389ff</color>
+    <color name="colorPrimaryWhite">#282828</color>
+    <color name="tab_color">#FFFFFFFF</color>
+    <color name="textColorPrimary">#FFFFFFFF</color>
+    <color name="colorPrimaryDark">#4389ff</color>
+    <color name="text_line">#1E000000</color>
+    <color name="list_text_color">#DE000000</color>
+</resources>

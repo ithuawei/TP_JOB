@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ضبط‌کننده صدا</string>
+    <string name="record_list">لیست</string>
+    <string name="toast_paly_failed">پخش نشد.</string>
+    <string name="toast_save_failed">ذخیره نشد.</string>
+    <string name="toast_save_successfully">صدای ضبط شده ذخیره شد.</string>
+    <string name="toast_record_failed">ضبط صدا انجام نشد</string>
+    <string name="toast_record_time_too_short">مدت زمان ضبط نباید کمتر از 1 ثانیه باشد</string>
+    <string name="delete_confirm_message">صدای ضبط شده فعلی حذف خواهد شد</string>
+    <string name="delete_title">حذف</string>
+    <string name="delete_btn">حذف</string>
+    <string name="save_title">ذخیره</string>
+    <string name="save_btn">ذخیره</string>
+    <string name="no_records">صدای ضبط شده‌ای وجود ندارد</string>
+    <string name="format_setting_amr_info"> برای اینکه مناسب اکثر کاربردها باشد، حجم فایل کمتر است.</string>
+    <string name="format_setting_wav_info">فرمت صدای WAV، حجم فایل خیلی زیاد است.</string>
+    <string name="recording">ضبط</string>
+    <string name="recording_paused">مکث</string>
+    <string name="recording_stopped">توقف</string>
+    <string name="format_setting">فرمت</string>
+    <string name="format_setting_amr_item">AMR</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">محل ذخیره</string>
+    <string name="storage_setting_sdcard_item">کارت SD</string>
+    <string name="storage_setting_local_item">حافظه داخلی</string>
+    <string name="notification_auto_save">ضبط‌کننده متوقف شد و فایل ضبط شده ذخیره شد</string>
+    <string name="audio_db_artist_name">"موارد ضبط شده شما"</string>
+
+    <!-- new strings -->
+    <string name="tab_recording">ضبط</string>
+    <string name="tab_call_recording">ضبط تماس</string>
+    <string name="num_of_selected">"‏%1$d انتخاب شد"</string>
+    <string name="delete_operation_tip">"حذف"</string>
+    <plurals name="delete_opration_confirm">
+        <item quantity="one">"مورد انتخابی حذف شود؟"</item>
+        <item quantity="other">"موارد انتخابی حذف شوند؟"</item>
+    </plurals>
+</resources>

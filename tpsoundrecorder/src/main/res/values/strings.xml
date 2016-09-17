@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Sound Recorder</string>
+    <string name="record_list">List</string>
+    <string name="toast_paly_failed">Play fialed.</string>
+    <string name="toast_save_failed">Save failed.</string>
+    <string name="toast_save_successfully">Recording saved.</string>
+    <string name="toast_record_failed">Sound recording failed</string>
+    <string name="toast_record_time_too_short">Recording time should not be less than 1 second</string>
+    <string name="delete_confirm_message">Current sound recording will be deleted</string>
+    <string name="delete_title">Delete</string>
+    <string name="delete_btn">DELETE</string>
+    <string name="save_title">Save</string>
+    <string name="save_btn">SAVE</string>
+    <string name="no_records">No sound recording</string>
+    <string name="format_setting_amr_info">The file size is smaller to fit most use cases.</string>
+    <string name="format_setting_wav_info">WAV sound format, the file size is huge.</string>
+    <string name="recording">Recording</string>
+    <string name="recording_paused">Pause</string>
+    <string name="recording_stopped">Stop</string>
+    <string name="format_setting">Format</string>
+    <string name="format_setting_amr_item">AMR</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">Storage location</string>
+    <string name="storage_setting_sdcard_item">SD card</string>
+    <string name="storage_setting_local_item">Internal storage</string>
+    <string name="notification_auto_save">Recorder is stop and saved</string>
+    <!-- Do not translate -->
+    <string name="timer_format" translatable="false">%02d:%02d:%02d</string>
+    <string name="audio_db_artist_name">"Your recordings"</string>
+    <string name="tab_recording">Recording</string>
+    <string name="tab_call_recording">Call recording</string>
+    <!-- <string name="has_been_chosen">Chosen</string> -->
+
+    <string name="num_of_selected">%1$d selected</string>
+    <string name="delete_operation_tip">Delete</string>
+    <plurals name="delete_opration_confirm">
+        <item quantity="one">Delete selected item?</item>
+        <item quantity="other">Delete selected items?</item>
+    </plurals>
+
+    <!-- 下面的是描述，不用翻译，不会显示在页面上 -->
+    <string name="action_delete"></string>
+</resources>

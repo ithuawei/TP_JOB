@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Perekam Suara</string>
+    <string name="record_list">Daftar</string>
+    <string name="toast_paly_failed">Putar gagal.</string>
+    <string name="toast_save_failed">Simpan gagal.</string>
+    <string name="toast_save_successfully">Rekaman disimpan.</string>
+    <string name="toast_record_failed">Rekaman suara gagal</string>
+    <string name="toast_record_time_too_short">Waktu perekaman tidak boleh kurang dari 1 detik</string>
+    <string name="delete_confirm_message">Rekaman suara saat ini akan dihapus</string>
+    <string name="delete_title">Hapus</string>
+    <string name="delete_btn">HAPUS</string>
+    <string name="save_title">Simpan</string>
+    <string name="save_btn">SIMPAN</string>
+    <string name="no_records">Tidak ada rekaman suara</string>
+    <string name="format_setting_amr_info">Ukuran file lebih kecil agar sesuai dengan sebagian besar penggunaan.</string>
+    <string name="format_setting_wav_info">Format suara WAV, ukuran file besar.</string>
+    <string name="recording">Merekam</string>
+    <string name="recording_paused">Jeda</string>
+    <string name="recording_stopped">Hentikan</string>
+    <string name="format_setting">Format</string>
+    <string name="format_setting_amr_item">AMR</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">Lokasi penyimpanan</string>
+    <string name="storage_setting_sdcard_item">Kartu SD</string>
+    <string name="storage_setting_local_item">Penyimpanan internal</string>
+    <string name="notification_auto_save">Perekam dihentikan, dan rekaman disimpan</string>
+    <string name="audio_db_artist_name">"Rekaman Anda:"</string>
+
+    <!-- new strings -->
+    <string name="tab_recording">Rekaman</string>
+    <string name="tab_call_recording">Rekaman panggilan</string>
+    <string name="num_of_selected">"%1$d dipilih"</string>
+    <string name="delete_operation_tip">"Hapus"</string>
+    <plurals name="delete_opration_confirm">
+        <item quantity="one">"Hapus item yang dipilih?"</item>
+        <item quantity="other">"Hapus item yang dipilih?"</item>
+    </plurals>
+</resources>

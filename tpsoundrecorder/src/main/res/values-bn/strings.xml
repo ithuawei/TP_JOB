@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">শব্দ রেকর্ডার</string>
+    <string name="record_list">তালিকা</string>
+    <string name="toast_paly_failed">প্লে ব্যর্থ হয়েছে।</string>
+    <string name="toast_save_failed">সংরক্ষণ ব্যর্থ হয়েছে।</string>
+    <string name="toast_save_successfully">রেকর্ডিং সংরক্ষিত হয়েছে।</string>
+    <string name="toast_record_failed">শব্দ রেকর্ডিং ব্যর্থ হয়েছে</string>
+    <string name="toast_record_time_too_short">রেকর্ডিং সময় 1 সেকেন্ডের কম হওয়া উচিৎ নয়</string>
+    <string name="delete_confirm_message">বর্তমান শব্দ রেকর্ডিং মুছে দেয়া হবে</string>
+    <string name="delete_title">মুছে দিন</string>
+    <string name="delete_btn">মুছে দিন</string>
+    <string name="save_title">সংরক্ষণ করুন</string>
+    <string name="save_btn">সংরক্ষণ করুন</string>
+    <string name="no_records">কোনো শব্দ রেকর্ডিং হচ্ছে না</string>
+    <string name="format_setting_amr_info">সর্বাধিক ব্যবহার কেসগুলির মাপসই করতে ফাইলের আকার আরও ছোট।</string>
+    <string name="format_setting_wav_info">WAV শব্দ বিন্যাস, ফাইলের আকার অনেক বড়।</string>
+    <string name="recording">রেকর্ডিং</string>
+    <string name="recording_paused">বিরতি</string>
+    <string name="recording_stopped">থামুন</string>
+    <string name="format_setting">বিন্যাস</string>
+    <string name="format_setting_amr_item">AMR</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">সংরক্ষণ স্থল</string>
+    <string name="storage_setting_sdcard_item">SD কার্ড</string>
+    <string name="storage_setting_local_item">অভ্যন্তরীণ সংরক্ষণ</string>
+    <string name="notification_auto_save">রেকর্ডার বন্ধ এবং সংরক্ষিত</string>
+    <string name="audio_db_artist_name">"আপনার রেকর্ডিংগুলি"</string>
+
+    <!-- new strings -->
+    <string name="tab_recording">রেকর্ডিং</string>
+    <string name="tab_call_recording">কল রেকর্ডিং</string>
+        <string name="num_of_selected">%1$d নির্বাচিত</string>
+    <string name="delete_operation_tip">মুছে দিন</string>
+    <plurals name="delete_opration_confirm">
+        <item quantity="one">নির্বাচিত পদ মুছে দেবেন?</item>
+        <item quantity="other">নির্বাচিত পদগুলি মুছে দেবেন?</item>
+    </plurals>
+</resources>

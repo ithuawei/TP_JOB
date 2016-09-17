@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grabador de sonido</string>
+    <string name="record_list">Lista</string>
+    <string name="toast_paly_failed">Falló la reproducción.</string>
+    <string name="toast_save_failed">Falló el guardado.</string>
+    <string name="toast_save_successfully">Se guardó la grabación.</string>
+    <string name="toast_record_failed">Falló la grabación de sonido</string>
+    <string name="toast_record_time_too_short">El tiempo de grabación debe ser menor que 1 segundo</string>
+    <string name="delete_confirm_message">La grabación de sonido actual se grabará</string>
+    <string name="delete_title">Borrar</string>
+    <string name="delete_btn">BORRAR</string>
+    <string name="save_title">Guardar</string>
+    <string name="save_btn">GUARDAR</string>
+    <string name="no_records">Sin grabación de sonido</string>
+    <string name="format_setting_amr_info">El tamaño del archivo es menor para caber en los mayores casos de uso.</string>
+    <string name="format_setting_wav_info">Formato de sonido WAV, el tamaño del archivo es muy grande.</string>
+    <string name="recording">Grabando</string>
+    <string name="recording_paused">Pausa</string>
+    <string name="recording_stopped">Pausa</string>
+    <string name="format_setting">Formato</string>
+    <string name="format_setting_amr_item">AMR</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">Ubicación de almacenamiento</string>
+    <string name="storage_setting_sdcard_item">Tarjeta SD</string>
+    <string name="storage_setting_local_item">Almacenamiento interno</string>
+    <string name="notification_auto_save">El grabador se detuvo y guardó la grabación</string>
+    <string name="audio_db_artist_name">"Tus grabaciones"</string>
+</resources>

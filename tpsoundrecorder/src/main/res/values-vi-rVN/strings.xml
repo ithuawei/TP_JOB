@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ghi Âm</string>
+    <string name="record_list">Danh sách</string>
+    <string name="toast_paly_failed">Mở không được.</string>
+    <string name="toast_save_failed">Lưu không được.</string>
+    <string name="toast_save_successfully">Bản ghi đã được lưu.</string>
+    <string name="toast_record_failed">Ghi âm không được.</string>
+    <string name="toast_record_time_too_short">Thời gian ghi không được dưới 1 giây</string>
+    <string name="delete_confirm_message">Bản ghi âm hiện tại sẽ được xóa</string>
+    <string name="delete_title">Xóa</string>
+    <string name="delete_btn">XÓA</string>
+    <string name="save_title">Lưu</string>
+    <string name="save_btn">LƯU</string>
+    <string name="no_records">Không có bản ghi âm nào</string>
+    <string name="format_setting_amr_info">Kích thước tập tin nhỏ phù hợp với hầu hết các trường hợp sử dụng.</string>
+    <string name="format_setting_wav_info">Dạng âm WAV, kích thước tập tin rất lớn.</string>
+    <string name="recording">Bản ghi</string>
+    <string name="recording_paused">Tạm dừng</string>
+    <string name="recording_stopped">Dừng</string>
+    <string name="format_setting">Định dạng</string>
+    <string name="format_setting_amr_item">AMR</string>
+    <string name="format_setting_wav_item">WAV</string>
+    <string name="storage_setting">Vị trí lưu trữ</string>
+    <string name="storage_setting_sdcard_item">Thẻ SD</string>
+    <string name="storage_setting_local_item">Bộ nhớ điện thoại</string>
+    <string name="notification_auto_save">Trình ghi đã được dừng, và bản ghi đã được lưu</string>
+    <string name="audio_db_artist_name">"Bản ghi của bạn"</string>
+
+    <!-- new strings -->
+    <string name="tab_recording">Đang ghi</string>
+    <string name="tab_call_recording">Ghi âm cuộc gọi</string>
+    <string name="num_of_selected">"Đã chọn %1$d"</string>
+    <string name="delete_operation_tip">"Xóa"</string>
+    <plurals name="delete_opration_confirm">
+        <item quantity="one">"Xóa mục đã chọn?"</item>
+        <item quantity="other">"Xóa các mục đã chọn?"</item>
+    </plurals>
+</resources>
